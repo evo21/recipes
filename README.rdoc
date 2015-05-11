@@ -3,4 +3,4 @@
 A "railsy" app to sharpen: rails, .css, bootstrap, user-auth, etc.
 
 * Ruby -v 2.0.0
-* Rails -v 4.2.0
+* Rail -v 4.2.0
